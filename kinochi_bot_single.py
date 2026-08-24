@@ -1,10 +1,10 @@
 # ================= CONFIG =================
 # Sinov uchun tokenni shu yerga yozishingiz mumkin.
 # Masalan: BOT_TOKEN = "123456:ABC..."
-BOT_TOKEN = "TOKENNI_SHU_YERGA_QOYING"
+BOT_TOKEN = "8970884665:AAFWMvQFezpLMeggLPDZZ-Emd-QiWMVB9bk"
 
 # Telegram user ID'ingizni shu yerga yozing.
-ADMINS = [123456789]
+ADMINS = [5437530757]
 
 DB_PATH = "kinochi.db"
 
